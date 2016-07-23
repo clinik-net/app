@@ -1,0 +1,18 @@
+.md-datepicker-calendar-pane {
+    z-index: 1060;
+}
+
+.md-dialog-container {
+    z-index: 1080 !important;
+}
+
+.col-md-50 {
+    width: 50% !important;
+    float: left;
+}
+
+/* md-input-container.form-group label {
+    font-weight: 700;
+    font-size: 14px;
+    color: #333;
+} */

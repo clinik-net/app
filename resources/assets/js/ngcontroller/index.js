@@ -1,0 +1,1 @@
+function IndexController($scope, $location) {}
