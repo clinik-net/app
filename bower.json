@@ -33,5 +33,9 @@
     "fullcalendar": "^2.7.0",
     "angular-translate": "^2.11.0",
     "angucomplete-alt": "^2.4.1"
+  },
+  "resolutions": {
+    "jquery": "^2.2.3",
+    "bootstrap": "v3.1.1"
   }
 }
